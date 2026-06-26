@@ -1,0 +1,24 @@
+# Python cache
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Audio cache files (generated at runtime)
+assets/audio/*.mp3
+assets/audio/*.wav
+
+# OS/Log files
+*.log
+os_stderr.log
+os_stdout.log
+run_assistant.log
+debug_terminal.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment files
+.env
+.venv/
+venv/
