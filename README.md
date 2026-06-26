@@ -1,10 +1,10 @@
 # Sukuna Chibi Desktop Assistant
 
-Created by: https://github.com/Madhura-kene
+Created by: Kaiu
 
 A lightweight desktop chibi Sukuna assistant for Windows featuring voice commands, an animated sprite overlay, and local text-to-speech (TTS) responses.
 
-GitHub Repository: https://github.com/Madhura-kene/chibi-sukuna-assistant
+
 
 ## Key Features
 
