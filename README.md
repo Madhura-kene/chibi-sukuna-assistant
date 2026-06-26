@@ -2,6 +2,8 @@
 
 Created by: Kaiu
 
+![Preview](assets/preview.jpg)
+
 A lightweight desktop chibi Sukuna assistant for Windows featuring voice commands, an animated sprite overlay, and local text-to-speech (TTS) responses.
 
 
